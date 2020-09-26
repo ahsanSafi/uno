@@ -18,7 +18,7 @@ def print_keywords():
 	print 'mid-L\tmid-M\tmid-R'
 	print 'low-L\tlow-M\tlow-R'
 
-#now we make the game engine function !
+#now the main game function 
 
 def play_game():
 	print "Let's start the game.Press ENTER to start or 'K' to see the keywords!"
